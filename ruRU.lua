@@ -34,6 +34,6 @@ ru = {
     CHAT_TALENTS = "Таланты: %s",
     POPUP_TALENTS = "RLGS: Посмотреть таланты",
     TALENT_FRAME_TITLE = "Таланты: %s",
-    ABOUT_HEADER = "О проекте RL Gearscore",
+    ABOUT_HEADER = "О аддоне RL Gearscore",
     ABOUT_TEXT = "Copyright © Robin Oliver Lucas\nSchwarzbach 148\n42277 Wuppertal\nГермания\n\nE-mail: robin@rl-dev.de\nПожертвования (PayPal): robin@rl-dev.de\nБаг-трекер: https://rl-dev.de/bugtracker.html",
 },
